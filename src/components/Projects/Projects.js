@@ -25,10 +25,18 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Cake-Shop"
-              description="The Cake Shop Project is an interactive web application designed for an online cake store. It allows users to browse different cakes, view detailed descriptions, place orders, and make payments seamlessly. The platform provides a user-friendly interface with features such as user authentication, a shopping cart, and an order tracking system.
-
-Key Features:
+              title="Sales and Distribution"
+              description="Full Stack Developer -
+-
+•SnD is a Web application that handles inventory movement and dealer management. The application carries
+out the entire inventory flow from Warehouse to Customer and Reverse Logistics-
+–Performed analysis, design, verification, demonstration, and maintenance of products in a
+process-driven, team environment.
+–Tested applications with precision and delivered code without defects.
+–Implemented high-visibility projects successfully by performing various phases of the life cycle (Impact
+Analysis, Designing, Coding, Maintaining, and Testing).
+–Led design reviews, code reviews, debugging, tracking, and analyzing issues and impact on quality,
+network, and operations.:
 
 🎂 User Authentication (Login/Signup)
 🛒 Shopping Cart & Checkout
